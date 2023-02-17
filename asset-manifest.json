@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/18-hw-todo-list-redux/static/css/main.dcf5a197.css",
+    "main.js": "/18-hw-todo-list-redux/static/js/main.c0fec6fa.js",
+    "index.html": "/18-hw-todo-list-redux/index.html",
+    "main.dcf5a197.css.map": "/18-hw-todo-list-redux/static/css/main.dcf5a197.css.map",
+    "main.c0fec6fa.js.map": "/18-hw-todo-list-redux/static/js/main.c0fec6fa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dcf5a197.css",
+    "static/js/main.c0fec6fa.js"
+  ]
+}
